@@ -8,8 +8,8 @@ nav,
 figcaption,
 img,
 header {
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  
 }
 
 nav > a {
