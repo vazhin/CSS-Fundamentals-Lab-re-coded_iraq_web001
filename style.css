@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+figcaption,
+img,
+header {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav > a {
+  padding: 0 10px 0 10px;
+  background-color: grey;
+  margin: auto;
+}
+
+figcaption {
+  font-size: 0.8rem;
+}
+
+
